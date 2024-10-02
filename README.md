@@ -11,13 +11,9 @@ Proyek ini ditujukan untuk menyeleksaikan course Dicoding Belajar analisis data 
   pip install -r requirements.txt
 ```
 ## Menjalankan Program
-- Ubah Current Working Directory lagi dengan:
-```
-  cd dashboard
-```
 - Jalankan dengan:
 ```
-  streamlit run dashboard.py
+  streamlit run dashboard/dashboard.py
 ```
   
 
