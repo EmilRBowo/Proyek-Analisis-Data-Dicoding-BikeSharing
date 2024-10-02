@@ -57,8 +57,8 @@ def create_bytime(data_hour):
     },inplace=True)
     return sum_order
 
-data_day=pd.read_csv("data_dayclean.csv")
-data_hour=pd.read_csv("data_hourclean.csv")
+data_day=pd.read_csv("dashboard/data_dayclean.csv")
+data_hour=pd.read_csv("dashboard/data_hourclean.csv")
 
 datetime_columns = ["dteday"]
 data_day.sort_values(by="dteday", inplace=True)
