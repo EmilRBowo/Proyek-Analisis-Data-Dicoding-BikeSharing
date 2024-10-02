@@ -15,5 +15,7 @@ Proyek ini ditujukan untuk menyeleksaikan course Dicoding Belajar analisis data 
 ```
   streamlit run dashboard/dashboard.py
 ```
-  
+- Atau jalankan dengan url:<br>
+https://emil12345.streamlit.app/
+
 
